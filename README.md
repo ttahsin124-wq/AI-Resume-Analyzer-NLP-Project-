@@ -46,7 +46,12 @@ And many more...
 *Visualizations: Category distribution, similarity scores, TF-IDF weights
 *Pipeline View: Visual representation of the NLP pipeline stages 
 
+
 <p align="center">
   <img src="Screenshot 2026-08-29 000633.png" alt="Alt text" width="700"/>
 </p>
+<p align="center">
+  <img src="Screenshot 2026-08-29 000707.png" alt="Alt text" width="700"/>
+</p>
+
   

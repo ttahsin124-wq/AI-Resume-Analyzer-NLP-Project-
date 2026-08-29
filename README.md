@@ -45,6 +45,7 @@ And many more...
 *Results View: Category prediction, confidence scores, ATS compatibility
 *Visualizations: Category distribution, similarity scores, TF-IDF weights
 *Pipeline View: Visual representation of the NLP pipeline stages 
+Screenshot 2026-08-29 000756.png
 
 
 
@@ -60,6 +61,9 @@ And many more...
 </p>
 <p align="center">
   <img src="Screenshot 2026-08-29 000738.png" alt="Alt text" width="700"/>
+</p>
+<p align="center">
+  <img src="Screenshot 2026-08-29 000756.png" alt="Alt text" width="700"/>
 </p>
 
   

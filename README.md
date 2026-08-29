@@ -47,6 +47,6 @@ And many more...
 *Pipeline View: Visual representation of the NLP pipeline stages 
 
 <p align="center">
-  <img src="images/your-image.png" alt="Alt text" width="700"/>
+  <img src="Screenshot 2026-08-29 000633.png" alt="Alt text" width="700"/>
 </p>
   

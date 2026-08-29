@@ -44,5 +44,9 @@ And many more...
 *Upload Area: Drag-and-drop resume upload with job description option
 *Results View: Category prediction, confidence scores, ATS compatibility
 *Visualizations: Category distribution, similarity scores, TF-IDF weights
-*Pipeline View: Visual representation of the NLP pipeline stages
+*Pipeline View: Visual representation of the NLP pipeline stages 
+
+<p align="center">
+  <img src="images/your-image.png" alt="Alt text" width="700"/>
+</p>
   

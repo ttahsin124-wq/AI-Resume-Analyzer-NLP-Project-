@@ -1,6 +1,7 @@
 # 📄 AI Resume Analyzer
 
 An intelligent Streamlit dashboard that leverages Natural Language Processing (NLP) and Machine Learning to analyze resumes, predict job categories, and evaluate ATS compatibility.
+<p align="center"> <img src="https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python" alt="Python"/> <img src="https://img.shields.io/badge/Streamlit-1.29%2B-FF4B4B?style=for-the-badge&logo=streamlit" alt="Streamlit"/> <img src="https://img.shields.io/badge/scikit--learn-1.5.0-orange?style=for-the-badge&logo=scikit-learn" alt="scikit-learn"/> <img src="https://img.shields.io/badge/NLTK-3.8.1-green?style=for-the-badge&logo=nltk" alt="NLTK"/> <img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge" alt="License"/> </p>
 
 ---
 
